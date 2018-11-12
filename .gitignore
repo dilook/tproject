@@ -1,0 +1,9 @@
+.allure
+.idea
+*.iml
+target
+setup.properties
+*.jpg
+*.log
+allure-results
+build
